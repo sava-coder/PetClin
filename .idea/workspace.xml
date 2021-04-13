@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f7247fa-170c-4155-aa83-85c8da378115" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetClinic.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +42,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="PetClinik" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="PetClinic" />
+      <module name="PetClin" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.bsuir.petclinic.PetClinicApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
@@ -66,7 +69,8 @@
       <workItem from="1618326674916" duration="801000" />
       <workItem from="1618329030047" duration="121000" />
       <workItem from="1618329225022" duration="1020000" />
-      <workItem from="1618330259138" duration="327000" />
+      <workItem from="1618330259138" duration="881000" />
+      <workItem from="1618331265831" duration="366000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1618329414590</created>
@@ -96,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1618330183780</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1">
+      <created>1618330598617</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618330598617</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1">
+      <created>1618330883925</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618330883925</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,18 +140,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="264" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618326330443" />
-    <state x="286" y="88" key="CommitChangelistDialog2" timestamp="1618330183028">
+    <state x="286" y="88" key="CommitChangelistDialog2" timestamp="1618330883320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="286" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1618330183028" />
+    <state x="286" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1618330883320" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1618329821708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618329821708" />
-    <state x="838" y="417" key="Github.ShareDialog" timestamp="1618330058210">
+    <state x="838" y="417" key="Github.ShareDialog" timestamp="1618331280476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618330058210" />
+    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618331280476" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1618327476972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -166,14 +184,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618327476972" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1618330585170">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1618331139739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618330585170" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1618330281475">
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618331139739" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1618330887616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618330281475" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618330887616" />
     <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618327434270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
